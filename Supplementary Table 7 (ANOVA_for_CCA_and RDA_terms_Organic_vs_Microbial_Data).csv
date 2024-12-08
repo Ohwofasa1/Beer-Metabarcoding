@@ -1,0 +1,19 @@
+(A)   ANOVA(By terms) for RDA Using Bacterial Data,,,,
+,Df,Variance,F,Pr(>F)
+Succinic.acid,1,8207612,5.00306,0.007
+L.Lactic.acid,1,7380716,4.499015,0.008
+Acetic.acid,1,2986747,1.820612,0.115
+Residual,8,13124147,NA,NA
+,,,,
+,,,,
+,,,,
+,,,,
+(B)      ANOVA (By terms) for CCA Using Fungi Data,,,,
+,,,,
+,Df,ChiSquare,F,Pr(>F)
+Citric.acid,1,0.5394259,1.399877,0.016
+L.Malic.acid,1,0.5933209,1.539742,0.014
+Succinic.acid,1,0.5960084,1.546716,0.006
+L.Lactic.acid,1,0.4147738,1.07639,0.318
+Acetic.acid,1,0.5153405,1.337373,0.071
+Residual,6,2.3120278,NA,NA
